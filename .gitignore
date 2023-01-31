@@ -1,0 +1,14 @@
+*.sqlite3
+*.sqlite3-journal
+*.pyc
+*.xlsx
+*.xls
+*.csv
+*.xml
+
+backup/
+ssl/
+migrations/
+_pycache_/
+commands.md
+run.sh
